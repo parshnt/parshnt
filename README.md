@@ -13,7 +13,7 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I'm a **certified Mountaineer** ⛰️
 - 📫 How to reach me: hi.parshant@gmail.com
-- 📝 Check out my **[Resume](https://parshnt.github.io/my-resume/resume.pdf)**
+- 📝 Check out my **[Resume](https://parshnt.github.io/resume.pdf)**
 
 ## 🚀 Languages and Tools:
 
