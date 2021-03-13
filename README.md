@@ -17,8 +17,9 @@
 
 ## 🚀 Languages, Tools and Platforms:
 
-<img align="left" alt="CPP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
+<img align="left" alt="CPP" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
+<img align="left" alt="Go" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"/>
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
 <img align="left" alt="MySQL" width="26px" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" />
@@ -32,6 +33,6 @@
 <img align="left" alt="Bash" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/240px-Bash_Logo_Colored.svg.png" />
 <img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
 <img align="left" alt="AWS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" />
-<img align="left" alt="gcp" width="26px" src="https://parshnt.github.io/assets/icons/gcp.png" />
+<img align="left" alt="gcp" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" />
 <img align="left" alt="Digital-ocean" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/DigitalOcean_logo.svg/240px-DigitalOcean_logo.svg.png" />
 <img align="left" alt="Heroku" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg" />
