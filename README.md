@@ -10,7 +10,7 @@
 [//]: # (- 🔭 I’m currently working on an **Ecommerce Platform**)
 - 🌱 I’m currently learning **GO** and **Algorithmic trading** 📈
 - 💬 Ask me about **C++, Git and Python**
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I'm a **certified Mountaineer** ⛰️
 - 📫 How to reach me: hi.parshant@gmail.com
 - 📝 Check out my **[Resume](https://parshnt.github.io/my-resume/resume.pdf)**
