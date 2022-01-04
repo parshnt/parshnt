@@ -8,18 +8,17 @@
 ## I'm a Undergraduate, Speaker and Developer!
 
 [//]: # (- 🔭 I’m currently working on an **Ecommerce Platform**)
-- 🌱 I’m currently learning **GO** and **Algorithmic trading** 📈
-- 💬 Ask me about **C++, Git and Python**
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🌱 I’m currently learning **Golang** and **Distributed systems** 📈
+- 🥅 2022 Goals: Contribute more to Open Source
 - ⚡ Fun fact: I'm a **certified Mountaineer** ⛰️
 - 📫 How to reach me: hi.parshant@gmail.com
 - 📝 Check out my **[Resume](https://parshnt.github.io/my-resume/resume.pdf)**
 
 ## 🚀 Languages, Tools and Platforms:
 
-<img align="left" alt="CPP" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
 <img align="left" alt="Go" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"/>
+<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
+<img align="left" alt="CPP" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
 <img align="left" alt="MySQL" width="26px" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" />
