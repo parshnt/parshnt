@@ -5,7 +5,7 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=parshnt.profile.id)
 
-## I'm a Undergraduate, Speaker and Developer!
+## I'm a CS Undergrad. and a Developer!
 
 [//]: # (- 🔭 I’m currently working on an **Ecommerce Platform**)
 - 🌱 I’m currently learning **Golang** and **Distributed systems** 📈
