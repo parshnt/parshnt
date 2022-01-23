@@ -12,7 +12,6 @@
 - 🥅 2022 Goals: Contribute more to Open Source
 - ⚡ Fun fact: I'm a **certified Mountaineer** ⛰️
 - 📫 How to reach me: hi.parshant@gmail.com
-- 📝 Check out my **[Resume](https://parshnt.github.io/my-resume/resume.pdf)**
 
 ## 🚀 Languages, Tools and Platforms:
 
