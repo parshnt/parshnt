@@ -1,4 +1,4 @@
-👋 Hello! I'm [Parshant](https://parshnt.github.io)
+👋 Hello! I'm Parshant
 ----------------------
 
 ## I'm a CS Undergrad. and a Developer!
