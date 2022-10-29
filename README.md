@@ -1,1 +1,1 @@
-![](https://github.com/parshnt/read.gif)
+![](https://github.com/parshnt/parshnt/blob/master/read.gif)
